@@ -1,0 +1,50 @@
+/*
+Project Name: JavaJam Web Site (HW14)
+Author: Jasmine Billips 
+Date Last Modified: April 30, 2019
+JavaJam Coffee House is the best.
+*/
+body {background-image: url(background.gif);}
+
+#wrapper {
+   background-color: #FEF6C2 ;
+   min-width: 900px ;
+   max-width: 1280px ;
+   box-shadow: 3px 3px 3px ;
+}
+
+header {
+    background-color: #D2B48C;
+   line-height: 150px;
+   background-image: url(javajamlogo.jpg);
+   background-repeat: no repeat;
+}
+h1 {padding-top: 45px;
+   padding-left: 220px;
+   font-size: 3em; }
+
+nav { font-size: 1.5em;
+       padding-top: 10px; }
+nav a{ text-decoration: none; }
+footer { background-color:#D2B48C;
+    font-size:.60em;
+    font-style:italic;
+   text-align:center;
+   padding-bottom: 10px;
+   border-top: 2px solid #221811; }
+
+h4{ background-color: #D2B48C;
+   font-size: 1.2em;
+   padding-left: .5em;
+   padding-bottom: .25em;
+   text-align: left; }
+
+main { padding-left: 2em;
+   padding-right:  2em;
+   padding-bottom: 2em;}
+
+.details { padding-left: 20%;
+           padding-right: 20%;}
+
+img { padding-left: 10px;
+   padding-right: 10px; }
